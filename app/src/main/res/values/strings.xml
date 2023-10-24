@@ -1,3 +1,13 @@
 <resources>
+
     <string name="app_name">ViewBindingAndDataBinding</string>
+
+    <string name="emptyString"></string>
+
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+
+    <string name="show_user">Show User</string>
+
 </resources>
